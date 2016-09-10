@@ -4,7 +4,7 @@ synopsis: Stateful IO streams based on pipes
 category: Control, Pipes
 author: Yin Guanhao
 maintainer: Yin Guanhao <yinguanhao@gmail.com>
-copyright: Copyright 2016 Yin Guanhao <yinguanhao@gmail.com>
+copyright: 2016 Yin Guanhao
 license: Apache-2.0
 license-file: LICENSE
 build-type: Simple
@@ -13,7 +13,7 @@ description:
   `pipes-io` allows you to use pipes and `Parser`s more easily in the
   IO monad, providing a interface similar to that of `io-streams`.
 tested-with: GHC == 7.10.3, GHC == 8.0.1
-
+homepage: https://github.com/yinguanhao/pipes-io
 source-repository head
   type: git
   location: https://github.com/yinguanhao/pipes-io
